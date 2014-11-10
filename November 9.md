@@ -2,12 +2,15 @@
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
+This week Michael and I decided to combine our project with Nick's. We are
+all working in the same domain (project and task management), so we decided
+to adjust our individual projects somewhat in order to create something new.
+Originally, we had wanted to add additional features to the TODO.txt program,
+but we decided that it would be better to start from scratch. We chose 
+the approach of working from scratch
+so that we would have more freedom with the implementation and features. 
+In order to facilitate our development, we decided to look into using
+a Sublime plug-in.
 
 ## Questions
 
@@ -29,6 +32,14 @@ having our project interface with sublime.
 
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
+
+I spent one and a half hours on the critique for Nick, one hour in a team meeting
+to discuss our newly merged team project with Nick, and about an hour on 
+the project-notebook. I also spent a few hours this week thinking about ideas
+for the syntax of our language as well as creating organizational documents
+for the team with google documents. We split up the work into three parts this 
+week - working on the IR, looking into using sublime plug-ins, and drafting
+ideas for the syntax of the language.
 
 ## Post-critique summary
 The critique focused on the design portion of our language. Nick (who 
