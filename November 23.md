@@ -20,6 +20,9 @@ you?**
 
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
+We spent 6 hours this week in team meetings in order to ensure that our separate tasks
+will work well together. I also worked an additional 2 hours individually on the 
+parser for our project and 1 hour on the critique. 
 
 ## Post-critique summary
 
