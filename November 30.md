@@ -37,4 +37,6 @@ this notebook entry and my critique.
 
 ## Post-critique summary
 
+We currently do not have a critique from Nov. 25th that I can summarize/reflect on.
+
 ## Post-critique reflection
