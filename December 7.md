@@ -34,5 +34,13 @@ notebook and on the critique. My work is described above and we continued
 having Nick work on the sublime plugin and Michael is working on the parser. 
 
 ## Post-critique summary
+My critique focused on the concerns we had about the syntax of our 
+language.
 
 ## Post-critique reflection
+I think that we will not have time to alter our syntax in any way, 
+but we will definitely be creating a readme with instructions. If
+we had much more time, I think that our goal would have been to 
+provide users with an optional, more verbose/clear syntax that 
+would allow users to have a more customizable experience with 
+their task management.
